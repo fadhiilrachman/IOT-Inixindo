@@ -1,2 +1,2 @@
-# IOT_Inixindo
+# IoT /inixindo/
 Build Internet of Things with ESP32
